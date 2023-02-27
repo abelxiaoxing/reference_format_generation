@@ -6,7 +6,7 @@
     <img src="https://badgen.net/github/checks/abelxiaoxing/reference_format_generation/main/">
     <img src="https://badgen.net/github/commits/abelxiaoxing/reference_format_generation/main/">
     <img src="https://badgen.net/github/stars/abelxiaoxing/reference_format_generation">
-    <img src="https://badgen.net/github/last-commit/abelxiaoxing/reference_format_generation/master/">
+    <img src="https://badgen.net/github/last-commit/abelxiaoxing/reference_format_generation/main/">
 </p>
 
 
